@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @manojmanivannan
+- 👋 Hi, I’m Manoj Manivannan, a Data Analyst Engineer based in Italy.
+- 💼 I'm working for a French Software company in the telecom sector.
 - 👀 I’m interested in Machine Learning & AI
 - 🌱 I’m currently learning advanced techniques in Data Analytics and Data Engineering
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: Drop an email to manojm18@live.in
 
 <!---
