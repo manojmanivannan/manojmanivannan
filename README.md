@@ -7,6 +7,17 @@
 
 ### Skills:
 
+<!-- 
+  Icons obtained from https://simpleicons.org/
+build the icons by 
+  "https://img.shields.io/badge/-" 
++ "name of logo as it should appear" 
++ "-" 
++ "color of the logo" 
++ "?style=flat-square&logo=" 
++ "name of logo" 
++ "&logoColor=white"
+-->
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
 <img alt="spark" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40" />
