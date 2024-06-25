@@ -1,6 +1,6 @@
 ## Hi there 👋!
 - ✋ I’m Manoj Manivannan, a Data Analyst Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the UK.
-- 💼 I'm working for a French Software company in the telecom sector.
+- 💼 I'm working for a Software company in the telecom sector.
 - 👀 I’m interested in Machine Learning & AI
 - 🌱 I’m currently learning advanced techniques in Data Analytics and Data Engineering
 - 📫 How to reach me: Drop an email to manojm18@live.in
