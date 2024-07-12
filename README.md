@@ -1,9 +1,9 @@
 ## Hi there 👋!
 - ✋ I’m Manoj Manivannan, a Data Analyst Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the UK.
-- 💼 I'm working for a Software company in the telecom sector.
-- 👀 I’m interested in Machine Learning & AI
-- 🌱 I’m currently learning advanced techniques in Data Analytics and Data Engineering
-- 📫 How to reach me: Drop an email to manojm18@live.in
+- 💼 Currently, I work at a leading software company within the telecom sector.
+- 👀 My passions lie in Machine Learning and Artificial Intelligence.
+- 🌱 I am at the forefront of innovation, leading the development of an AI chatbot designed to interact seamlessly with proprietary APIs and tools.
+- 📫 Feel free to reach out to me via email at manojm18@live.in
 
 ### Skills:
 
@@ -30,6 +30,8 @@ build the icons by
 <img alt="k8s" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="40" />
 <img alt="airflow" src="https://img.shields.io/badge/Apache%20Airflow-4169E1?style=flat-square&logo=apacheairflow&logoColor=white" height="40" />
 <img alt="spark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="40" />
+<img alt="langchain" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5u34aur48tj25f61uhqy.png" height="40"/>
+  
 </p>
 <!---
 manojmanivannan/manojmanivannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
