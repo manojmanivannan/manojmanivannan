@@ -1,39 +1,43 @@
-## Hi there 👋!
-- ✋ I’m Manoj Manivannan, a Data Analyst Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the UK.
-- 💼 Currently, I work at a leading software company within the telecom sector.
-- 👀 My passions lie in Machine Learning and Artificial Intelligence.
-- 🌱 I am at the forefront of innovation, leading the development of an AI chatbot designed to interact seamlessly with proprietary APIs and tools.
-- 📫 Feel free to reach out to me via email at manojm18@live.in
+## Hi 👋
 
-### Skills:
+I’m **Manoj Manivannan**, a **Data Analyst Engineer** and **GenAI Solutions Developer** based in the UK—turning data into decisions and models into momentum.
 
-<!-- 
-  Icons obtained from https://simpleicons.org/
-build the icons by 
-  "https://img.shields.io/badge/-" 
-+ "name of logo as it should appear" 
-+ "-" 
-+ "color of the logo" 
-+ "?style=flat-square&logo=" 
-+ "name of logo" 
-+ "&logoColor=white"
--->
+- 💼 I work at a leading **telecom software company**, solving large-scale, real-world problems.
+- 🤖 My core interests are **Machine Learning** and **Artificial Intelligence**, with a strong bias toward things that actually ship.
+- 🚀 I currently lead the development of an **Agentic Framework** that orchestrates cross-domain applications to generate insights, reports, dashboards, and automated workflows—so humans can focus on thinking, not clicking.
+- 📬 Want to talk data, AI, or bold ideas? Reach me at **manojm18@live.in**
+
+If it involves data, intelligence, and a bit of ambition, I’m probably working on it.
+
+## 🧰 Skills & Tech Stack
+### Languages
+
+<img alt="python" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" height="40"/>  <img alt="postgresql" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" height="40"/> Postgres <img alt="bash" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="40"/>
+
+### Data & Analytics
+
+<img alt="pandas" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/>  <img alt="numpy" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/>   <img alt="spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40"/>
+
+
+### Machine Learning & AI
+
+<img alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/> <img alt="PyTorch" src="https://www.quintagroup.com/blog/blog-images/machine-learning-libraries/pytorch.png" height="40"/> <img alt="LangChain" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5u34aur48tj25f61uhqy.png" height="40"/>
+
+### GenAI & Agentic Systems
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-005571?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector_Databases-006400?style=for-the-badge)
+
+### Visualization
 <p>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
-<img alt="spark" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" height="40"/>
-<img alt="VS-Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" height=40" />
-<img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="40" />
-<img alt="sql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="40"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="40" />
-<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="40" /> 
-<img alt="k8s" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="40" />
-<img alt="airflow" src="https://img.shields.io/badge/Apache%20Airflow-4169E1?style=flat-square&logo=apacheairflow&logoColor=white" height="40" />
-<img alt="spark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="40" />
-<img alt="langchain" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5u34aur48tj25f61uhqy.png" height="40"/>
-  
+  <img alt="plotly" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="40"/>
 </p>
-<!---
-manojmanivannan/manojmanivannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Other Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,vscode" />
+</p>
+
