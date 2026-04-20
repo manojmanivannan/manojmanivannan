@@ -4,8 +4,8 @@ I’m **Manoj Manivannan**, a **Data Analyst Engineer** and **GenAI Solutions De
 
 - 💼 I work at a leading **telecom software company**, solving large-scale, real-world problems.
 - 🤖 My core interests are **Machine Learning** and **Artificial Intelligence**, with a strong bias toward things that actually ship.
-- 🚀 I currently lead the development of an **Agentic Framework** that orchestrates cross-domain applications to generate insights, reports, dashboards, and automated workflows—so humans can focus on thinking, not clicking.
-- 📬 Want to talk data, AI, or bold ideas? Reach me at **manojm18@live.in**
+- 🚀 I currently spearheading the development of an **Agentic Framework** that orchestrates cross-domain applications to generate insights, reports, dashboards, and automated workflows—so humans can focus on thinking, not clicking.
+- 📬 Want to chat? Reach me at **manojm18@live.in**
 
 If it involves data, intelligence, and a bit of ambition, I’m probably working on it.
 
